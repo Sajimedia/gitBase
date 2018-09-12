@@ -1,3 +1,5 @@
 This is the Sample text file for testing git,
 
 adding one more lines over here . for testing
+
+adding third line for testing git 
